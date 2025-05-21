@@ -45,9 +45,12 @@ Git branching and version control best practices.
 Using GitHub to track changes and work collaboratively.
 
 # 📸 Screenshot
-Screenshot 2025-05-20 at 10.46.23 PM.png
-Screenshot 2025-05-20 at 10.46.55 PM.png
-Screenshot 2025-05-20 at 10.47.43 PM.png
+<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/fbb3e1a7-1ea6-4b79-9eb0-9236edcb0454" />
+
+
+<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/e2be64ae-329d-446d-834a-2ba5bdd41eb8" />
+
+<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/981908f1-ee38-4b68-ac09-293077266c5f" />
 
 # 👤 Author
 Ricardo Marmolejo
